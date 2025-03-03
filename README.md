@@ -51,9 +51,9 @@ plt.plot(X,y_predicted,color='red')
 plt.show()
 ```
 
-![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/cc9bec23-8a40-447b-94da-00e90ad05cd6)
-## Output:
 
+## Output:
+"C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-03-03 223248.png"
 
 
 
