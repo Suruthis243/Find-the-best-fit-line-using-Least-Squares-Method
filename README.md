@@ -49,11 +49,12 @@ print(y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
+
 ```
 
 
 ## Output:
-"C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-03-03 223248.png"
+![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/77ff7707-63e2-461c-84b3-1c30e65f674b)
 
 
 
