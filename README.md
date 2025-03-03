@@ -53,7 +53,8 @@ plt.show()
 
 
 ## Output:
-"C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-03-03 223248.png"
+![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/3cbc5fc8-1f4a-42cc-b433-d124659032bd)
+
 
 
 
