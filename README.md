@@ -1,4 +1,4 @@
-# Implementation of Univariate Linear Regression
+![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/69f72d79-b89d-492e-9aed-3c9cdd80acb1)# Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -52,7 +52,8 @@ plt.show()
 ```
 
 ## Output:
-![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/0c495f02-dc1e-472f-82e1-9dae4e52658a)
+
+![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/b772709a-55ca-44c2-9c8d-c53958f72e71)
 
 
 
