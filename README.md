@@ -53,8 +53,8 @@ plt.show()
 
 ## Output:
 
+![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/b1366020-e16a-41e3-a50a-8b3eb28b6d2a)
 
-![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/29939b0d-afd4-4338-80ee-0f5a4bc4ce24)
 
 
 
