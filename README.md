@@ -51,9 +51,10 @@ plt.plot(X,y_predicted,color='red')
 plt.show()
 ```
 
+![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/cc9bec23-8a40-447b-94da-00e90ad05cd6)
 ## Output:
 
-![Screenshot 2025-03-03 223248](https://github.com/user-attachments/assets/b1366020-e16a-41e3-a50a-8b3eb28b6d2a)
+
 
 
 
